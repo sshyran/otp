@@ -2,8 +2,10 @@
 
 [![Build Workflow](https://github.com/sshyran/otp/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/sshyran/otp/actions)
 
-## Offline OTP WebApp. 
+## Offline-ready OTP WebApp. 
 Set yourself free from platform/provider/device OTP lock! NEVER lose access to OTP-ed resources, even if OTP device is lost! BECAUSE this WebApp may safely remain in YOUR GitHub-pages enabled repo as long as YOU wish! Fork and enjoy!
+## Major drawback: 
+#### It does not store your OTP QR-codes in-memory (you won't see the list of your OTP-ed resources after page refresh). Therefore, to prevent OTP-lock on some websites (they show QR only once), generate backup codes immediately after OTP login, and save your initial OTP login QR-codes separately in a safe place, or take screenshots! You've been warned ! ; )
 
 ## ☂️ No External Services are used, local JavaScript execution only ☂️
 
