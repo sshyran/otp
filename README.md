@@ -7,8 +7,8 @@ A *Google Authenticator* like offline webapp.
 
 ## ☂️ No External Services are used, local JavaScript execution only ☂️
 
-Hosted at github pages: https://sshyran.github.io/otp-authenticator-webapp/
-* branch: [gh-pages](https://sshyran.github.io/otp-authenticator-webapp/tree/gh-pages)
+Hosted at github pages: https://sshyran.github.io/otp/
+* branch: [gh-pages](https://sshyran.github.io/otp/tree/gh-pages)
 
 Or host it on your onw GitHub account 
 * Just fork this repo and this web app is available at:
