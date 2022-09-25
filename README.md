@@ -1,19 +1,18 @@
-# otp-authenticator-webapp [![Sparkline](https://stars.medv.io/qoomon/otp-authenticator-webapp.svg)](https://stars.medv.io/qoomon/otp-authenticator-webapp)
+# OTP 
 
-[![Build Workflow](https://github.com/qoomon/otp-authenticator-webapp/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/qoomon/otp-authenticator-webapp/actions)
-[![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/qoomon/otp-authenticator-webapp)](https://lgtm.com/projects/g/qoomon/otp-authenticator-webapp)
+[![Build Workflow](https://github.com/sshyran/otp/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/sshyran/otp/actions)
 
 A *Google Authenticator* like offline webapp.
 
 ## ☂️ No External Services are used, local JavaScript execution only ☂️
 
 Hosted at github pages: https://sshyran.github.io/otp/
-* branch: [gh-pages](https://sshyran.github.io/otp/tree/gh-pages)
+* branch: [gh-pages](https://github.com/sshyran/otp/tree/gh-pages)
 
 Or host it on your onw GitHub account 
 * Just fork this repo and this web app is available at:
   
-  [https://\<USERNAME>.github.io/otp-authenticator-webapp/](https://USERNAME.github.io/otp-authenticator-webapp/)
+  [https://\<USERNAME>.github.io/otp/](https://USERNAME.github.io/otp/)
 
 
 ### Features
@@ -26,3 +25,4 @@ Or host it on your onw GitHub account
   
 ## Developer Notes
 * https://csscomb.herokuapp.com/online
+* originally developed and generously provided by @qoomon 
