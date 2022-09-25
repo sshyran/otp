@@ -2,10 +2,19 @@
 
 [![Build Workflow](https://github.com/sshyran/otp/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/sshyran/otp/actions)
 
-## Offline-ready OTP WebApp. 
-Set yourself free from platform/provider/device OTP lock! NEVER lose access to OTP-ed resources, even if OTP device is lost! BECAUSE this WebApp may safely remain in YOUR GitHub-pages enabled repo as long as YOU wish! Fork and enjoy!
-## Major drawback: 
-#### It does not store your OTP QR-codes in-memory (you won't see the list of your OTP-ed resources after page refresh). Therefore, to prevent OTP-lock on some websites (they show QR only once), generate backup codes immediately after OTP login, and save your initial OTP login QR-codes separately in a safe place, or take screenshots! You've been warned ! ; )
+# Offline-ready OTP WebApp
+This WebApp may safely remain in YOUR GitHub-pages enabled repo as long as YOU wish! Fork and enjoy! 
+
+## With this app, in some cases, you may set yourself free from platform/provider/device OTP lock and forced OTP-optins! But to achieve this, you MUST NEVER lose access to your initial OTP setup QR-codes, even if OTP device (phone/key) is lost! 
+# Major drawback: 
+This client-side WebApp can only eliminate software installation necessity and/or physical OTP-hardware posession/presence at hand. But, IT DOES NOT store your OTP QR-codes in-memory (it has no internal database, you won't see the list of your OTP-ed resources after page refresh). 
+#### Therefore, to prevent OTP-lock on some websites (they show QR only once, at setup stage: 
+* generate text backup codes (or phrases) immediately after OTP login! 
+* save your initial OTP login QR-code separately in a safe place!
+* take screenshots and save them in your private, password-protected cloud storage !
+* feed this app with your website-specific QR-image each time you login!
+* If it all seems too hard or not safe enough - use SMS-based OTP (only if you trust your phone number provider, and operator has your identity confirmed) or don't mess with OTP's at all !
+* You've been warned !   ; )
 
 ## ☂️ No External Services are used, local JavaScript execution only ☂️
 
