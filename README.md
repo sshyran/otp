@@ -2,7 +2,8 @@
 
 [![Build Workflow](https://github.com/sshyran/otp/workflows/Build%20&%20Deploy/badge.svg)](https://github.com/sshyran/otp/actions)
 
-A *Google Authenticator* like offline webapp.
+## Offline OTP WebApp. 
+Set yourself free from platform/provider/device OTP lock! NEVER lose access to OTP-ed resources, even if OTP device is lost! BECAUSE this WebApp may safely remain in YOUR GitHub-pages enabled repo as long as YOU wish! Fork and enjoy!
 
 ## ☂️ No External Services are used, local JavaScript execution only ☂️
 
